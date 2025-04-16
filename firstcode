@@ -1,0 +1,4 @@
+install.packages("remotes")  # if not already installed
+remotes::install_github("poales/macroinvertebrate")
+
+library(macroinvertebrate)
